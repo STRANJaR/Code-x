@@ -1,0 +1,247 @@
+@media only screen and (max-width: 1180px) {
+  .nav-list {
+    flex-direction: column;
+  }
+  .burger {
+    display: block;
+  }
+  .P-delta {
+    height: 350px;
+  }
+}
+@media only screen and (max-width: 1075px) {
+  .partners {
+    padding: 90px;
+  }
+  #partner-logo li {
+    padding: 0px 3px;
+  }
+}
+@media only screen and (max-width: 1160px) {
+  .delta h1 {
+    font-size: 1.2rem;
+  }
+}
+@media only screen and (max-width: 980px) {
+  .First-Half h1 {
+    font-size: 2rem;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .ocean {
+    margin: 80px;
+  }
+  .ocean li p {
+    font-size: 0.5rem;
+  }
+  #Lear-More {
+    padding: 10px;
+    width: 120px;
+    font-size: 1rem;
+  }
+}
+@media only screen and (max-width: 980px) {
+  .First-Half h1 {
+    font-size: 2rem;
+  }
+}
+
+@media only screen and (max-width: 930px) {
+  .First-Half p {
+    font-size: 1rem;
+  }
+  .btn-large {
+    font-size: 1rem;
+    padding: 10px;
+  }
+  #non-teacher-heading {
+    font-size: 2.4rem;
+  }
+  #non-teacher-para {
+    font-size: 1rem;
+  }
+  .btn-SecondSection {
+    padding: 10px;
+    font-size: 1rem;
+  }
+  #non-teacher-heading2 {
+    font-size: 2.4rem;
+  }
+  #non-teacher-para2 {
+    font-size: 1rem;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .contact-form input {
+    font-size: 0.7rem;
+    width: 115%;
+    padding: 6px;
+  }
+  .contact-form select {
+    width: 121%;
+    font-size: 0.7rem;
+  }
+  #first-content {
+    font-size: 0.5rem;
+  }
+  .footer {
+    height: 252px;
+  }
+  #copy {
+    font-size: 0.5rem;
+  }
+  .contact-form label {
+    font-size: 1rem;
+  }
+  #btn-form {
+    padding: 8px;
+    font-size: 0.8rem;
+    width: 80px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .imgSecond img {
+    height: 300px;
+  }
+  .charlie p {
+    font-size: 0.8rem;
+  }
+  .charlie h2 {
+    font-size: 1rem;
+  }
+  #partner-logo {
+    padding: 0px 6px;
+  }
+  #partner-logo img {
+    height: 30px;
+  }
+  #Lear-More {
+    margin-top: 50px;
+  }
+  .imgFirst img {
+    height: 300px;
+  }
+  .Second-Half img {
+    height: 300px;
+  }
+  .non-teacher2 {
+    margin-left: 6px;
+  }
+  .ocean {
+    margin: 0px 0px;
+  }
+}
+@media only screen and (max-width: 490px) {
+  .First-Half h1 {
+    font-size: 1.1rem;
+  }
+  .charlie p {
+    font-size: 0.6rem;
+  }
+  .First-Half p {
+    font-size: 0.8rem;
+  }
+  .btn-large {
+    width: 100px;
+    font-size: 1rem;
+    padding: 8px;
+  }
+  #non-teacher-heading {
+    font-size: 1.5rem;
+  }
+  #non-teacher-para {
+    font-size: 1rem;
+  }
+  .imgFirst img {
+    height: 230px;
+  }
+  #non-teacher-heading2 {
+    font-size: 1.5rem;
+  }
+  #non-teacher-para2 {
+    font-size: 1rem;
+  }
+  .imgSecond img {
+    height: 230px;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  .ocean li img {
+    height: 30px;
+  }
+  .ocean li p {
+    font-size: 0.3rem;
+  }
+  .ocean {
+    margin: 0px 0px;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  .P-delta {
+    height: 300px;
+  }
+  .partners p {
+    max-width: 50%;
+    margin-left: 25%;
+  }
+  #partner-logo img {
+    height: 24px;
+  }
+  .partners {
+    height: 150px;
+  }
+  .ocean li {
+    padding: 0px;
+    margin-bottom: 50px;
+  }
+  .delta h1 {
+    font-size: 1rem;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .imgFirst img {
+    height: 200px;
+  }
+  .btn-large {
+    width: 125px;
+  }
+  .main-box {
+    height: 75%;
+  }
+  .SecondSection {
+    height: 500px;
+  }
+  .ThirdSection {
+    height: 650px;
+  }
+  .Second-Half img {
+    height: 230px;
+  }
+  .First-Half h1 {
+    font-size: 1rem;
+  }
+  #non-teacher-heading {
+    font-size: 1.2rem;
+  }
+  #non-teacher-para {
+    font-size: 0.7rem;
+  }
+  .btn-SecondSection {
+    font-size: 0.7rem;
+    padding: 5px;
+    width: 100px;
+  }
+
+  .imgSecond img {
+    height: 210px;
+  }
+  #non-teacher-heading2 {
+    font-size: 1.2rem;
+  }
+  #non-teacher-para2 {
+    font-size: 0.7rem;
+  }
+}

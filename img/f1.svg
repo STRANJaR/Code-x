@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-curriculum</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Udacity's-digital-competency-platform-/-Updated-Desktop" transform="translate(-261.000000, -925.000000)">
+            <g id="icon-curriculum" transform="translate(261.000000, 925.000000)">
+                <path d="M37,40 L15.308,40 C13.651,40 12.308,38.657 12.308,37 L12.308,9.154 C12.308,7.497 13.651,6.154 15.308,6.154 L37,6.154 C38.657,6.154 40,7.497 40,9.154 L40,37 C40,38.657 38.657,40 37,40" id="Fill-1" fill="#17C5A1"></path>
+                <path d="M33.8462,36.8462 L12.1542,36.8462 C10.4972,36.8462 9.1542,35.5032 9.1542,33.8462 L9.1542,6.0002 C9.1542,4.3432 10.4972,3.0002 12.1542,3.0002 L33.8462,3.0002 C35.5032,3.0002 36.8462,4.3432 36.8462,6.0002 L36.8462,33.8462 C36.8462,35.5032 35.5032,36.8462 33.8462,36.8462" id="Fill-3" fill="#BEE907"></path>
+                <line x1="13.7692" y1="10.6932" x2="32.2312" y2="10.6932" id="Stroke-5" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="13.7692" y1="29.1529" x2="22.2312" y2="29.1529" id="Stroke-7" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="13.7692" y1="25.461" x2="32.2312" y2="25.461" id="Stroke-9" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="13.7692" y1="21.769" x2="32.2312" y2="21.769" id="Stroke-11" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="13.7692" y1="18.0771" x2="32.2312" y2="18.0771" id="Stroke-13" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="13.7692" y1="14.3852" x2="32.2312" y2="14.3852" id="Stroke-15" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M20,10 C20,15.523 15.523,20 10,20 C4.477,20 0,15.523 0,10 C0,4.477 4.477,0 10,0 C15.523,0 20,4.477 20,10" id="Fill-17" fill="#2043FF"></path>
+                <polygon id="Stroke-19" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="10 13.2918 6.751 14.9998 7.371 11.3818 4.743 8.8198 8.375 8.2918 10 4.9998 11.625 8.2918 15.257 8.8198 12.629 11.3818 13.249 14.9998"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-feedback</title>
+    <defs>
+        <polygon id="path-1" points="0 0 12.3077 0 12.3077 12.3078 0 12.3078"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Udacity's-digital-competency-platform-/-Updated-Desktop" transform="translate(-574.000000, -925.000000)">
+            <g id="icon-feedback" transform="translate(574.000000, 925.000000)">
+                <path d="M30.8462,40 L9.1542,40 C7.4972,40 6.1542,38.657 6.1542,37 L6.1542,9.154 C6.1542,7.497 7.4972,6.154 9.1542,6.154 L30.8462,6.154 C32.5032,6.154 33.8462,7.497 33.8462,9.154 L33.8462,37 C33.8462,38.657 32.5032,40 30.8462,40" id="Fill-1" fill="#BEE907"></path>
+                <line x1="13.5887" y1="17.539" x2="25.1807" y2="17.539" id="Stroke-3" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="13.5887" y1="28.6148" x2="25.1807" y2="28.6148" id="Stroke-5" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="16.4081" y1="24.9229" x2="22.8421" y2="24.9229" id="Stroke-7" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="13.5887" y1="21.231" x2="20.0227" y2="21.231" id="Stroke-9" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="22.842" y1="21.231" x2="27.465" y2="21.231" id="Stroke-11" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="10.7692" y1="13.8471" x2="17.2032" y2="13.8471" id="Stroke-13" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="20.0226" y1="13.8471" x2="29.2306" y2="13.8471" id="Stroke-15" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="10.7692" y1="32.3068" x2="22.3612" y2="32.3068" id="Stroke-17" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M40,28.6148 C40,32.0138 37.245,34.7688 33.846,34.7688 C30.447,34.7688 27.692,32.0138 27.692,28.6148 C27.692,25.2158 30.447,22.4608 33.846,22.4608 C37.245,22.4608 40,25.2158 40,28.6148" id="Fill-19" fill="#9E62FF"></path>
+                <line x1="32" y1="30.461" x2="35.692" y2="26.769" id="Stroke-21" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="35.6923" y1="30.461" x2="32.0003" y2="26.769" id="Stroke-23" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round"></line>
+                <g id="Group-27">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-26"></g>
+                    <path d="M12.3077,6.1538 C12.3077,9.5528 9.5527,12.3078 6.1537,12.3078 C2.7547,12.3078 -0.0003,9.5528 -0.0003,6.1538 C-0.0003,2.7548 2.7547,-0.0002 6.1537,-0.0002 C9.5527,-0.0002 12.3077,2.7548 12.3077,6.1538" id="Fill-25" fill="#17C5A1" mask="url(#mask-2)"></path>
+                </g>
+                <polyline id="Stroke-28" stroke="#0B0B0B" stroke-linecap="round" stroke-linejoin="round" points="3.965 6.3277 5.33 7.6927 8.406 4.6157"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
