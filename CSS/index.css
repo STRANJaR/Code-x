@@ -360,7 +360,7 @@ hr {
 .footer {
   font-family: "Poppins", sans-serif;
   /* background-color: rgb(36 32 32); */
-  background: url("/EducationWeb/img/footer.jpg") no-repeat center center;
+  background: url("img/footer.jpg") no-repeat center center;
   background-size: cover;
   color: rgb(255, 255, 255);
   height: 300px;
